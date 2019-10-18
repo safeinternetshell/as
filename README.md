@@ -1,5 +1,5 @@
 
-This repository contains all the assignments implemented in Laboratory Practice 2
+ 
 
 - [Assignment 1: Write Java/C++/Python code for simple implementation of K-Means/K-Mediods clustering algorithm](https://colab.research.google.com/drive/1bLwvAwHgUUi50-3EmmEz3U8pV9T92Hi7)
 
